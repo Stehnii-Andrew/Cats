@@ -27,4 +27,5 @@ h1 {
 .img {
     display: flex;
     justify-content: center;
+    height: 250px;
 }
